@@ -9,4 +9,4 @@ import 'bootstrap/dist/js/bootstrap.bundle.min';
 import Counters from './components/counters';
  
 
-ReactDOM.render(<App />, document.querySelector("#root"));
+ReactDOM.render(<App />, document.getElementById("root"));
