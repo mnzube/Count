@@ -45,7 +45,7 @@
     "style-loader": "^1.0.0",
     "url-loader": "^2.1.0",
     "autoprefixer": "^9.6.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.15.0",
     "postcss-loader": "^3.0.0",
     "precss": "^4.0.0",
